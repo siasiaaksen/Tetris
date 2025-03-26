@@ -3,3 +3,8 @@
 
 #include "Global/TetrisGameInstance.h"
 
+
+int UTetrisGameInstance::XValue = 10;
+int UTetrisGameInstance::YValue = 10;
+
+
